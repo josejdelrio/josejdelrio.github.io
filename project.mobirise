@@ -234,9 +234,10 @@
               "name": "dribbble",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Goal 1",
@@ -250,9 +251,10 @@
               "name": "desctop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Goal 2",
@@ -266,7 +268,7 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": "",
               "color": "#fff",
               "newWindow": false
@@ -283,9 +285,10 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Goal 4",
