@@ -257,7 +257,7 @@
           },
           "title2": "Goal 2",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Another one of my goals is to be a software engineer or digital designer. I like to work with computers since I think they are the future of this world.\u001b",
+          "caption2": "Another one of my goals is to be a software engineer or digital designer. I like to work with computers since I think they are the future of this world.\u001b&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -290,7 +290,7 @@
           },
           "title4": "Goal 4",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "One of my last main goals is to serve the public in the form of a police officer or detective. I've always liked the idea of helping people in my community which I could fulfill with this goal.&nbsp;",
+          "caption4": "One of my last main goals is to serve the public in the form of a police officer or detective. I've always liked the idea of helping people in my community which I could fulfill with this goal. I would also like to pursue a degree in Criminology.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -359,7 +359,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>As I grew older I started learning about other career paths that might interest me.One career in the technology field that I'm interested in is software engineering. I would like to someday develop programs for people whether it be on mobile apps or computer software. Another career that I am highly considering is playing baseball. Baseball is a sport that I have fallen in love with ever since I started playing. It is my ultimate goal to become a professional baseball player. However, I do have other backup plans of different careers that I'm also interested in. One in particular is that I would like to study criminology in college. This degree I could use in the public service field as a police officer or detective. I would also like to one day own a business. I think that it is important to have multiple sources of income to be succesful.</p>"
+          "text": "<p>Some of my hobbies are playing sports like baseball and basketball. I also sometime in my spare time design logos. One career in the technology field that I'm interested in is software engineering. I would like to someday develop programs for people whether it be on mobile apps or computer software. Another career that I am highly considering is playing baseball. Baseball is a sport that I have fallen in love with ever since I started playing. It is my ultimate goal to become a professional baseball player. However, I do have other backup plans of different careers that I'm also interested in. One in particular is that I would like to study criminology in college. This degree I could use in the public service field as a police officer or detective. I would also like to one day own a business. I think that it is important to have multiple sources of income to be succesful.</p>"
         },
         {
           "_tags": [
