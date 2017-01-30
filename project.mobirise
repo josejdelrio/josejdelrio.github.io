@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 70,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.10.5"
   },
   "pages": {
     "index.html": {
@@ -146,7 +146,7 @@
           },
           "_anchor": "msg-box5-a",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "44",
             "paddingTop": "4",
             "paddingBottom": "3",
             "parallax": true,
@@ -170,7 +170,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/picture-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
