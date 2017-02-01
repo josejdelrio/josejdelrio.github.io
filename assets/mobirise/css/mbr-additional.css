@@ -492,6 +492,10 @@ h6,
   text-align: left;
   color: #ffffff;
 }
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-1e .card-subtitle {
   color: #bcbcbc;
 }
