@@ -503,9 +503,15 @@ h6,
   background-color: #7e9b9f;
   border-color: #7e9b9f;
 }
+#features7-1e P {
+  text-align: left;
+}
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1d H3 {
+  text-align: right;
 }
 #content1-1f P {
   text-align: left;

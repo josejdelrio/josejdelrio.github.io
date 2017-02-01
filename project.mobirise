@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -172,7 +172,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-1-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -226,6 +226,9 @@
             ".iconbox": {
               "background-color": "#7e9b9f",
               "border-color": "#7e9b9f"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_name": "features7",
@@ -268,7 +271,7 @@
           },
           "title1": "Professional Baseball",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One of my main goals is to become a professional baseball player.I've always loved the sport and I think I have the determination to continue on to a professional career.",
+          "caption1": "One of my main goals is to become a professional baseball player.I've been playing baseball since I was 4 years old I've always loved the sport and I think I have the determination to continue on to a professional career.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -356,6 +359,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -369,7 +375,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Biography/Goals Cont.",
+          "title": "Biography",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -388,7 +394,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp; &nbsp; Ever since I was little, I've always liked to figure out how computers work. I like to not know how to do something but through persistence be able to figure it out. I did this with my computers as a kid. I would open them and learn about the hardware that's makes up a computer. As I got older, I started learning about design elements and how to incorporate colors and fonts into a design. I also found out about video design and web design which I also enjoy.&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Some of my hobbies are playing sports like baseball and basketball. I also sometime in my spare time design logos. One career in the technology field that I'm interested in is software engineering. I would like to someday develop programs for people whether it be on mobile apps or computer software. Another career that I am highly considering is playing baseball. Baseball is a sport that I have fallen in love with ever since I started playing. It is my ultimate goal to become a professional baseball player. However, I do have other backup plans of different careers that I'm also interested in. One in particular is that I would like to study criminology in college. This degree I could use in the public service field as a police officer or detective. I would also like to one day own a business. I think that it is important to have multiple sources of income to be succesful.</p>"
+          "text": "<p>&nbsp; &nbsp; Ever since I was little, I've always liked to figure out how computers work. I like to not know how to do something but through persistence be able to figure it out. I did this with my computers as a kid. I would open them and learn about the hardware that's makes up a computer. As I got older, I started learning about design elements and how to incorporate colors and fonts into a design. I also found out about video design and web design which I also enjoy.&nbsp;</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Some of my hobbies are playing sports like baseball and basketball. I also sometime in my spare time design logos. One career in the technology field that I'm interested in is software engineering. I would like to someday develop programs for people whether it be on mobile apps or computer software. Another career that I am highly considering is playing baseball. Baseball is a sport that I have fallen in love with ever since I started playing. It is my ultimate goal to become a professional baseball player. However, I do have other backup plans of different careers that I'm also interested in. One in particular is that I would like to study criminology in college. This degree I could use in the public service field as a police officer or detective. I would also like to one day own a business. I think that it is important to have multiple sources of income to be succesful.</p>"
         },
         {
           "_tags": [
