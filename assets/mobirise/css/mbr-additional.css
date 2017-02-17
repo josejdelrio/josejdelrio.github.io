@@ -484,16 +484,11 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#msg-box5-a P {
-  text-align: left;
+#header1-2d .mbr-section-title {
   color: #ffffff;
 }
-#msg-box5-a H3 {
-  text-align: left;
-  color: #ffffff;
-}
-#header3-1z .mbr-section-title,
-#header3-1z .mbr-section-subtitle {
+#header3-2e .mbr-section-title,
+#header3-2e .mbr-section-subtitle {
   text-align: center;
 }
 #features7-1e .card-subtitle {
@@ -506,15 +501,13 @@ h6,
 #features7-1e P {
   text-align: left;
 }
-#header3-1d .mbr-section-title,
-#header3-1d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1d H3 {
-  text-align: right;
-}
-#content1-1f P {
+#header2-2c .mbr-section-text {
   text-align: left;
+  color: #000000;
+}
+#header2-2c .mbr-section-title {
+  text-align: left;
+  color: #000000;
 }
 #contacts1-3 P {
   color: #ffffff;
