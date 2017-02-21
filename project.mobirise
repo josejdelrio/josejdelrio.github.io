@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "word.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 95,
+    "uniqCompNum": 97,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -431,16 +431,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-wynwood-background-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jose-del-rio-wynwood-background-2000x1333.jpg",
                 "caption": "If Walls Could Talk",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rough-draft-2000x1333.jpg",
-                "caption": "Masterpeice Reproduction",
                 "active": true
               }
             ],
@@ -453,6 +443,125 @@
             "showBullets": true
           },
           "_anchor": "gallery2-k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Masterpiece Reproduction&nbsp;",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pic-1-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pic-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic-3-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pic-3-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic-4-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pic-4-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2n",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -3709,6 +3818,16 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-2j",
           "_params": {
             "imageSize": 50,
@@ -3754,17 +3873,7 @@
           },
           "title": "Biography",
           "text": "Ever since I was little, I've always liked to figure out how computers work. I like to not know how to do something but through persistence be able to figure it out. I did this with my computers as a kid. I would open them and learn about the hardware that's makes up a computer. As I got older, I started learning about design elements and how to incorporate colors and fonts into a design. I also found out about video design and web design which I also enjoy. <br><br>Some of my hobbies are playing sports like baseball and basketball. I also sometime in my spare time design logos. One career in the technology field that I'm interested in is software engineering. I would like to someday develop programs for people whether it be on mobile apps or computer software. Another career that I am highly considering is playing baseball. Baseball is a sport that I have fallen in love with ever since I started playing. It is my ultimate goal to become a professional baseball player. However, I do have other backup plans of different careers that I'm also interested in. One in particular is that I would like to study criminology in college. This degree I could use in the public service field as a police officer or detective. I would also like to one day own a business. I think that it is important to have multiple sources of income to be successful.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left",
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {

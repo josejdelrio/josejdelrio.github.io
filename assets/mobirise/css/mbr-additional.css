@@ -566,6 +566,10 @@ h6,
 #msg-box3-l p {
   color: #000;
 }
+#header3-2o .mbr-section-title,
+#header3-2o .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-d P {
   color: #ffffff;
 }
