@@ -493,6 +493,10 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 100px;
 }
+#social-buttons4-2x .mbr-section-title,
+#social-buttons4-2x .btn-social {
+  color: #fff;
+}
 #contacts1-3 P {
   color: #ffffff;
 }
