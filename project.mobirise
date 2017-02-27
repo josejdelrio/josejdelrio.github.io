@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 106,
+    "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -174,35 +174,24 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-2v",
+          "_name": "header3",
+          "_anchor": "header3-30",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/WpTMfntagTQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "My Work",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "gallery1",
@@ -211,7 +200,7 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": 4,
             "images": [
               {
@@ -4289,6 +4278,38 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Suite&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Animate</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\" aria-expanded=\"false\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"access.html\">Access</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://josejdelrio.github.io/documents/Jose del Rio Discuss IT Topic 6.pdf\">Discuss IT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"recommendations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Recommendations</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paterecommendation.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gonzalezrecommendation.html\">Mr. Gonzalez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Garcia</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://josejdelrio.github.io/documents/adobeillustratorcertification.pdf\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://josejdelrio.github.io/documents/ic3computingfundamentals.pdf\">IC3 Computing Fundamentals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://josejdelrio.github.io/documents/ic3livingonline.pdf\">IC3 Living Online</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">RESUME</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/WpTMfntagTQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [

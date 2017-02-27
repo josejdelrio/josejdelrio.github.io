@@ -493,6 +493,10 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 100px;
 }
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-2x .mbr-section-title,
 #social-buttons4-2x .btn-social {
   color: #fff;
