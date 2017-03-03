@@ -505,6 +505,9 @@ h6,
   color: #ffffff;
   font-size: 36px;
 }
+#gallery3-35 .mbr-gallery-item > div > span {
+  color: #ffffff;
+}
 #social-buttons4-2x .mbr-section-title,
 #social-buttons4-2x .btn-social {
   color: #fff;
@@ -1655,6 +1658,9 @@ h6,
   color: #fff;
 }
 #msg-box8-32 .lead P {
+  text-align: left;
+}
+#msg-box8-32 .lead BLOCKQUOTE {
   text-align: left;
 }
 #header3-33 .mbr-section-title,
