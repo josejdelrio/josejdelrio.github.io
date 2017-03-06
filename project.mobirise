@@ -684,6 +684,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pic-4-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/pic-4-2000x3000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-6-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-6-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-7-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-7-2000x3000.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -692,7 +712,7 @@
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery2-2n",
