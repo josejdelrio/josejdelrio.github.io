@@ -904,6 +904,10 @@ h6,
 #msg-box3-t p {
   color: #000;
 }
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-3 P {
   color: #ffffff;
 }
@@ -980,6 +984,10 @@ h6,
 #msg-box3-x .mbr-section-title,
 #msg-box3-x p {
   color: #000;
+}
+#header3-3d .mbr-section-title,
+#header3-3d .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-3 P {
   color: #ffffff;
@@ -1058,6 +1066,10 @@ h6,
 #msg-box3-11 p {
   color: #000;
 }
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-3 P {
   color: #ffffff;
 }
@@ -1134,6 +1146,10 @@ h6,
 #msg-box3-15 .mbr-section-title,
 #msg-box3-15 p {
   color: #000;
+}
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-3 P {
   color: #ffffff;
