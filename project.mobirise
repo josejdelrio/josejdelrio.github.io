@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 125,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 127,
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -284,6 +284,19 @@
           "_anchor": "gallery3-35",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1667,7 +1680,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13330.jpg",
                 "caption": "Postcard",
                 "active": false
               },
@@ -1707,7 +1720,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/social-impact-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13331.jpg",
                 "caption": "Social Impact Poster",
                 "active": false
               },
@@ -4642,7 +4655,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/uHC_GLEgExQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/FhpTYKemUgI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
