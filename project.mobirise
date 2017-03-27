@@ -216,10 +216,10 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#000000",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
