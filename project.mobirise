@@ -216,7 +216,7 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#000000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": false,
             "showButtons": false
@@ -1737,7 +1737,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13332.jpg",
                 "caption": "Postcard",
                 "active": false
               },
@@ -1777,7 +1777,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/social-impact-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13333.jpg",
                 "caption": "Social Impact Poster",
                 "active": false
               },
