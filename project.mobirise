@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 129,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -199,6 +199,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "msg-box4-3j",
           "_params": {
             "imageSize": 50,
@@ -228,7 +233,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/FhpTYKemUgI?rel=0&showinfo=0&autoplay=0&loop=0",
+              "src": "https://youtu.be/npeOKk_aMKg",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1737,7 +1742,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13330.jpg",
                 "caption": "Postcard",
                 "active": false
               },
@@ -1777,7 +1782,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/social-impact-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13331.jpg",
                 "caption": "Social Impact Poster",
                 "active": false
               },
@@ -4705,8 +4710,8 @@
             "paddingTop": "5",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4714,7 +4719,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/FhpTYKemUgI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#222",
