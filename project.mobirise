@@ -187,7 +187,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#483f3f",
+            "bgColor": "#595959",
             "showMeta": false
           },
           "title": "",
@@ -201,7 +201,7 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box4-3j",
@@ -212,7 +212,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#7c706b",
+            "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -262,7 +262,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#483f3f",
+            "bgColor": "#000000",
             "showMeta": false
           },
           "title": "",
@@ -1742,7 +1742,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13330.jpg",
                 "caption": "Postcard",
                 "active": false
               },
@@ -1782,7 +1782,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/social-impact-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13331.jpg",
                 "caption": "Social Impact Poster",
                 "active": false
               },
