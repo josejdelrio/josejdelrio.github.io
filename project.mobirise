@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 129,
+    "uniqCompNum": 131,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -171,7 +171,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Jose del Rio</span>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=xqyenWFqVww\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Biography Video</a> "
         },
         {
           "_styles": {
@@ -183,86 +183,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-34",
+          "_anchor": "header3-3m",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#595959",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box4-3j",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=xqyenWFqVww",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Premiere Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#000000",
+            "bgColor": "#483f3f",
             "showMeta": false
           },
           "title": "",
@@ -1742,7 +1667,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose-del-rio-postcard-back-2000x13332.jpg",
                 "caption": "Postcard",
                 "active": false
               },
@@ -1782,7 +1707,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/social-impact-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/social-impact-2000x13333.jpg",
                 "caption": "Social Impact Poster",
                 "active": false
               },
