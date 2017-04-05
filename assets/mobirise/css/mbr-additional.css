@@ -669,9 +669,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#msg-box3-n .mbr-section-title,
-#msg-box3-n p {
-  color: #000;
+#header2-3p .mbr-section-title {
+  text-align: left;
+  font-size: 46px;
 }
 #contacts1-3 P {
   color: #ffffff;
