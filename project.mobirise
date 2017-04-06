@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 141,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -1064,7 +1064,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://youtu.be/WMfdly9xYxw",
+              "src": "https://youtu.be/t9Q-7U9krAE",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
