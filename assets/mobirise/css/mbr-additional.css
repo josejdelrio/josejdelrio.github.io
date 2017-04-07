@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -605,6 +606,7 @@ h6,
 }
 
 
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -668,6 +670,9 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#header2-3w .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
 }
 #contacts1-3 P {
   color: #ffffff;

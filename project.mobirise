@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 141,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -1055,8 +1055,8 @@
             "inverse": false,
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": true,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -1078,7 +1078,13 @@
           },
           "title": "Adobe Make The Cut&nbsp;Competition",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/channel/UCoKuKdJtGbyrSJSJmAPEFrQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Youtube Channel<br></a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
