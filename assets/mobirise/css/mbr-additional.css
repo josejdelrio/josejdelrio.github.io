@@ -672,7 +672,11 @@ h6,
 #header3-3y .mbr-section-subtitle {
   text-align: center;
 }
-#header2-3x .mbr-section-title {
+#header3-40 .mbr-section-title,
+#header3-40 .mbr-section-subtitle {
+  text-align: center;
+}
+#header2-3z .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
 #contacts1-3 P {
