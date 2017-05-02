@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1040,7 +1040,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://youtu.be/-Q7ynoEj3JY",
+              "src": "https://youtu.be/TtwwSDOUBx4",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
