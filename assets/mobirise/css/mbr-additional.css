@@ -671,6 +671,10 @@ h6,
 #header2-45 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
+#header3-46 .mbr-section-title,
+#header3-46 .mbr-section-subtitle {
+  text-align: center;
+}
 #header2-43 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
