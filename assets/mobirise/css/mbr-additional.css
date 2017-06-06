@@ -602,6 +602,8 @@ h6,
 
 
 
+
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -665,6 +667,16 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#header2-45 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#header2-43 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-44 .mbr-section-title,
+#header3-44 .mbr-section-subtitle {
+  text-align: center;
 }
 #header2-41 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
